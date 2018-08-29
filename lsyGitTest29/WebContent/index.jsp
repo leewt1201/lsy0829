@@ -8,7 +8,13 @@
 <title>gitTest</title>
 </head>
 <body>
-cyc gg
-ㅋㅋㅋㅋㅋㅋㅋㄴㅇ라넝리ㅏㅓ충돌잼
+<<<<<<< HEAD
+==========
+1
+2
+3 - pull 연습하세요
+3.5- 살리자ㅎ
+4 - 수정했음
+>>>>>>> branch 'master' of https://github.com/leewt1201/lsy0829.git
 </body>
 </html>

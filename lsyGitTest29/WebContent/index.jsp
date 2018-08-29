@@ -8,6 +8,9 @@
 <title>gitTest</title>
 </head>
 <body>
-cyc gg
+1
+2
+3 - pull 연습하세요
+4 - 수정했음
 </body>
 </html>
